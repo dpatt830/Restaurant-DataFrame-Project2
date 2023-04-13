@@ -1,2 +1,2 @@
-# Restaurant-DataFrame-Project2
+# Chicago-Restaurant-DataFrame-Project
 Looking at restaurant data in Chicago, locating two neighborhoods with many failed inspections. Answering some general questions about this data from the data frame, as well as performing some basic statistical analysis on this data.
