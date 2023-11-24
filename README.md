@@ -29,3 +29,5 @@ The results of each test are as follows:
 *	**Little India vs. Rest of City**: 
   * Chi-Squared = 30.588134772465153
   * Resulting p-value = 3.190388850340393e-08
+
+From the resulting tests it can be concluded that there is a significant relationship between location/neighborhood and inspection result, and the probability of failed inspection for restaurants in Devon/Little India is significantly greater than the rest of the city.
