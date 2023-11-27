@@ -20,15 +20,17 @@ Looking at the data, we can see that the percentage of failed restaurant inspect
 To test a location's signifcance on the inspection result, three chi-squared tests were take. First, a chi-squared test comparing the three locations (Chinatown, Little India, and the Rest of Chicago) to see if location was significant on the result of the inspection. Then two following tests to see if there were significant differences in failed inspections among the two neighbor hoods compared to the rest of the city. 
 
 The results of each test are as follows:
-*	**All Locations** :
-  * Chi-Squared = 33.51157988326079
-  * Resulting p-value = 5.2850960980274587e-08
+
+*	**All Locations**:
+    * Chi-Squared = 33.51157988326079
+    * Resulting p-value = 5.2850960980274587e-08
 *	**Chinatown vs. Rest of City**: 
-  * Chi-Squared = 3.0671475475622234
-  * Resulting p-value = 0.07988953622172074
+    * Chi-Squared = 3.0671475475622234
+    * Resulting p-value = 0.07988953622172074
 *	**Little India vs. Rest of City**: 
-  * Chi-Squared = 30.588134772465153
-  * Resulting p-value = 3.190388850340393e-08
+    * Chi-Squared = 30.588134772465153
+    * Resulting p-value = 3.190388850340393e-08
+  
 
 From the resulting tests it can be concluded that there is a significant relationship between location/neighborhood and inspection result, and the probability of failed inspection for restaurants in Devon/Little India is significantly greater than the rest of the city. 
 
