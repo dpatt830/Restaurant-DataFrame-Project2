@@ -30,4 +30,6 @@ The results of each test are as follows:
   * Chi-Squared = 30.588134772465153
   * Resulting p-value = 3.190388850340393e-08
 
-From the resulting tests it can be concluded that there is a significant relationship between location/neighborhood and inspection result, and the probability of failed inspection for restaurants in Devon/Little India is significantly greater than the rest of the city.
+From the resulting tests it can be concluded that there is a significant relationship between location/neighborhood and inspection result, and the probability of failed inspection for restaurants in Devon/Little India is significantly greater than the rest of the city. 
+
+As we can see there are apparent significant differences in failed food inspections and overall a high volume of failed food inspections in two highly populated ethnic communities in Chicago. Further research should go into what causes these failed inspections in these two neighborhoods. Could it be the number of restaurants in the area, the restaurants not following food safety protocols, or ethnic biases?
