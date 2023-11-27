@@ -4,14 +4,14 @@ Analyzing restaurant data in Chicago and locating the two nieghborhoods with the
 ## Data Analysis
 Looking at a heatmap of the city of Chicago, we can see the hotspots of locations where we see multiple failed food inspections are most dense in.
 
-![Heat Map of Chicago](https://github.com/dpatt830/Restaurant-DataFrame-Project2/blob/master/map.png? "Map of Chicago")
+![Heat Map of Chicago](https://github.com/dpatt830/Restaurant-DataFrame-Project2/blob/main/map.png? "Map of Chicago")
 
 The two densest areas of multiple failed resturant inspections are located along the street in northern Chicago Devon and the street in southern Chicago, Cermak. These streets are both home to large ethnic populations and their respective neighborhoods are Little India and Chinatown. 
 
 Knowing that these are where most of failed food and restaurant inspections are located, we can see how each neighborhood compares to the rest of the city's restaurants. 
 
-![Bar Graph](https://github.com/dpatt830/Restaurant-DataFrame-Project2/blob/master/bar.png? "Bar Graph")
-![Data Table](https://github.com/dpatt830/Restaurant-DataFrame-Project2/blob/master/data_table.png? "Data Table")
+![Bar Graph](https://github.com/dpatt830/Restaurant-DataFrame-Project2/blob/main/bar.png? "Bar Graph")
+![Data Table](https://github.com/dpatt830/Restaurant-DataFrame-Project2/blob/main/data_table.png? "Data Table")
 
 The data table depicts the total number of inspections over a ten year period, and how many have passed or failed and where the restaurant was located in. The bar graph displays the number of failed inspections as a percentage relative to the number of resturants in that area, and compares those percentages to each location.
 
